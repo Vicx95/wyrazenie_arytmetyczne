@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1517329399 source:c:\users\chris\desktop\dla kuby\zadaniee 5\main.cpp
+	<iostream>
+	"wyrazenie_arytmetyczne.hpp"
+
+1516043403 c:\users\chris\desktop\dla kuby\zadaniee 5\wyrazenie_arytmetyczne.hpp
+	<vector>
+	<algorithm>
+	<string>
+
+1517329447 source:c:\users\chris\desktop\dla kuby\zadaniee 5\wyrazenie_arytmetyczne.cpp
+	<stdexcept>
+	<sstream>
+	<string>
+	<cmath>
+	"wyrazenie_arytmetyczne.hpp"
+
+1517332999 source:d:\pobieranie\zadanie 5\main.cpp
+	<iostream>
+	"wyrazenie_arytmetyczne.hpp"
+
+1516047003 d:\pobieranie\zadanie 5\wyrazenie_arytmetyczne.hpp
+	<vector>
+	<algorithm>
+	<string>
+
+1517333047 source:d:\pobieranie\zadanie 5\wyrazenie_arytmetyczne.cpp
+	<stdexcept>
+	<sstream>
+	<string>
+	<cmath>
+	"wyrazenie_arytmetyczne.hpp"
+
